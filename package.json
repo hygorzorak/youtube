@@ -1,0 +1,29 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "youtube channel content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hygorzorak/youtube.git"
+  },
+  "keywords": [
+    "youtube",
+    "javascript",
+    "react"
+  ],
+  "author": "Hygor Zorak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hygorzorak/youtube/issues"
+  },
+  "homepage": "https://github.com/hygorzorak/youtube#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11",
+    "react": "^16.7.0"
+  }
+}
